@@ -1,7 +1,8 @@
 package ttt_Sim;
 /*
  * Samuel Giesbrecht
- * (Luke Schroeder and Noah Voth)
+ * Luke Schroeder
+ * Noah Voth
  * 
  * 9-27-18
  * 
@@ -12,5 +13,8 @@ import java.util.Random;
 
 public class TTT_Game {
 	private int p1score, p2score;
+	private int[][] board;
+	
+	
 
 }
