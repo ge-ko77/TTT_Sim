@@ -15,6 +15,9 @@ public class TTT_Game {
 	private int p1score, p2score;
 	private int[][] board;
 	
-	
+	public TTT_Game() {
+		
+		
+	}
 
 }
